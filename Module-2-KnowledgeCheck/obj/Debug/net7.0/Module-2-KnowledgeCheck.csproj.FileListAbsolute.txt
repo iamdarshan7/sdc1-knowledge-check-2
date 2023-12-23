@@ -1,0 +1,15 @@
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/bin/Debug/net7.0/Module-2-KnowledgeCheck
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/bin/Debug/net7.0/Module-2-KnowledgeCheck.deps.json
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/bin/Debug/net7.0/Module-2-KnowledgeCheck.runtimeconfig.json
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/bin/Debug/net7.0/Module-2-KnowledgeCheck.dll
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/bin/Debug/net7.0/Module-2-KnowledgeCheck.pdb
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.csproj.AssemblyReference.cache
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.AssemblyInfoInputs.cache
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.AssemblyInfo.cs
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.csproj.CoreCompileInputs.cache
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.dll
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/refint/Module-2-KnowledgeCheck.dll
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.pdb
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/Module-2-KnowledgeCheck.genruntimeconfig.cache
+/Users/darshan/CODE/sdc1-knowledge-check-2/Module-2-KnowledgeCheck/obj/Debug/net7.0/ref/Module-2-KnowledgeCheck.dll
